@@ -1,0 +1,12 @@
+.product-box{
+    display: flex;
+    border: 1px solid;
+    width: 500px;
+    height: 150px;
+  }
+  
+  .main-user-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 10px;
+  }
